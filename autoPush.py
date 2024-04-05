@@ -12,4 +12,4 @@ def upload():
 
 while True:
     upload()
-    time.sleep(100) #5 min
+    time.sleep(100) #1 min
